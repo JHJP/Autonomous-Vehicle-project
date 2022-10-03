@@ -1,0 +1,49 @@
+[1.144s] Invoking command in '/home/papag/av_ws/src/kmou_robot_spawner_pkg': PYTHONPATH=/home/papag/av_ws/install/kmou_robot_spawner_pkg/lib/python3.8/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py egg_info --egg-base ../../build/kmou_robot_spawner_pkg build --build-base /home/papag/av_ws/build/kmou_robot_spawner_pkg/build install --prefix /home/papag/av_ws/install/kmou_robot_spawner_pkg --record /home/papag/av_ws/build/kmou_robot_spawner_pkg/install.log --single-version-externally-managed
+[1.530s] running egg_info
+[1.531s] creating ../../build/kmou_robot_spawner_pkg/kmou_robot_spawner_pkg.egg-info
+[1.531s] writing ../../build/kmou_robot_spawner_pkg/kmou_robot_spawner_pkg.egg-info/PKG-INFO
+[1.532s] writing dependency_links to ../../build/kmou_robot_spawner_pkg/kmou_robot_spawner_pkg.egg-info/dependency_links.txt
+[1.532s] writing entry points to ../../build/kmou_robot_spawner_pkg/kmou_robot_spawner_pkg.egg-info/entry_points.txt
+[1.532s] writing requirements to ../../build/kmou_robot_spawner_pkg/kmou_robot_spawner_pkg.egg-info/requires.txt
+[1.532s] writing top-level names to ../../build/kmou_robot_spawner_pkg/kmou_robot_spawner_pkg.egg-info/top_level.txt
+[1.535s] writing manifest file '../../build/kmou_robot_spawner_pkg/kmou_robot_spawner_pkg.egg-info/SOURCES.txt'
+[1.605s] reading manifest file '../../build/kmou_robot_spawner_pkg/kmou_robot_spawner_pkg.egg-info/SOURCES.txt'
+[1.608s] writing manifest file '../../build/kmou_robot_spawner_pkg/kmou_robot_spawner_pkg.egg-info/SOURCES.txt'
+[1.608s] running build
+[1.608s] running build_py
+[1.608s] creating /home/papag/av_ws/build/kmou_robot_spawner_pkg/build
+[1.609s] creating /home/papag/av_ws/build/kmou_robot_spawner_pkg/build/lib
+[1.609s] creating /home/papag/av_ws/build/kmou_robot_spawner_pkg/build/lib/kmou_robot_spawner_pkg
+[1.609s] copying kmou_robot_spawner_pkg/spawn_demo.py -> /home/papag/av_ws/build/kmou_robot_spawner_pkg/build/lib/kmou_robot_spawner_pkg
+[1.609s] copying kmou_robot_spawner_pkg/__init__.py -> /home/papag/av_ws/build/kmou_robot_spawner_pkg/build/lib/kmou_robot_spawner_pkg
+[1.609s] running install
+[1.611s] running install_lib
+[1.612s] creating /home/papag/av_ws/install/kmou_robot_spawner_pkg/lib/python3.8/site-packages/kmou_robot_spawner_pkg
+[1.613s] copying /home/papag/av_ws/build/kmou_robot_spawner_pkg/build/lib/kmou_robot_spawner_pkg/spawn_demo.py -> /home/papag/av_ws/install/kmou_robot_spawner_pkg/lib/python3.8/site-packages/kmou_robot_spawner_pkg
+[1.613s] copying /home/papag/av_ws/build/kmou_robot_spawner_pkg/build/lib/kmou_robot_spawner_pkg/__init__.py -> /home/papag/av_ws/install/kmou_robot_spawner_pkg/lib/python3.8/site-packages/kmou_robot_spawner_pkg
+[1.614s] byte-compiling /home/papag/av_ws/install/kmou_robot_spawner_pkg/lib/python3.8/site-packages/kmou_robot_spawner_pkg/spawn_demo.py to spawn_demo.cpython-38.pyc
+[1.616s] byte-compiling /home/papag/av_ws/install/kmou_robot_spawner_pkg/lib/python3.8/site-packages/kmou_robot_spawner_pkg/__init__.py to __init__.cpython-38.pyc
+[1.616s] running install_data
+[1.617s] creating /home/papag/av_ws/install/kmou_robot_spawner_pkg/share/ament_index
+[1.617s] creating /home/papag/av_ws/install/kmou_robot_spawner_pkg/share/ament_index/resource_index
+[1.617s] creating /home/papag/av_ws/install/kmou_robot_spawner_pkg/share/ament_index/resource_index/packages
+[1.617s] copying resource/kmou_robot_spawner_pkg -> /home/papag/av_ws/install/kmou_robot_spawner_pkg/share/ament_index/resource_index/packages
+[1.618s] copying package.xml -> /home/papag/av_ws/install/kmou_robot_spawner_pkg/share/kmou_robot_spawner_pkg
+[1.618s] creating /home/papag/av_ws/install/kmou_robot_spawner_pkg/share/kmou_robot_spawner_pkg/launch
+[1.618s] copying launch/gazebo_world.launch.py -> /home/papag/av_ws/install/kmou_robot_spawner_pkg/share/kmou_robot_spawner_pkg/launch
+[1.618s] creating /home/papag/av_ws/install/kmou_robot_spawner_pkg/share/kmou_robot_spawner_pkg/worlds
+[1.618s] copying ./worlds/kmou.world -> /home/papag/av_ws/install/kmou_robot_spawner_pkg/share/kmou_robot_spawner_pkg/worlds/
+[1.618s] creating /home/papag/av_ws/install/kmou_robot_spawner_pkg/share/kmou_robot_spawner_pkg/models
+[1.619s] creating /home/papag/av_ws/install/kmou_robot_spawner_pkg/share/kmou_robot_spawner_pkg/models/kmou
+[1.619s] copying ./models/kmou/model.sdf -> /home/papag/av_ws/install/kmou_robot_spawner_pkg/share/kmou_robot_spawner_pkg/models/kmou/
+[1.619s] copying ./models/kmou/model.config -> /home/papag/av_ws/install/kmou_robot_spawner_pkg/share/kmou_robot_spawner_pkg/models/kmou/
+[1.619s] creating /home/papag/av_ws/install/kmou_robot_spawner_pkg/share/kmou_robot_spawner_pkg/models/warehouse_robot_tutorial
+[1.619s] copying ./models/warehouse_robot_tutorial/model.sdf -> /home/papag/av_ws/install/kmou_robot_spawner_pkg/share/kmou_robot_spawner_pkg/models/warehouse_robot_tutorial/
+[1.619s] copying ./models/warehouse_robot_tutorial/model.config -> /home/papag/av_ws/install/kmou_robot_spawner_pkg/share/kmou_robot_spawner_pkg/models/warehouse_robot_tutorial/
+[1.620s] copying ./worlds/kmou.world -> /home/papag/av_ws/install/kmou_robot_spawner_pkg/share/kmou_robot_spawner_pkg/models/
+[1.620s] running install_egg_info
+[1.622s] Copying ../../build/kmou_robot_spawner_pkg/kmou_robot_spawner_pkg.egg-info to /home/papag/av_ws/install/kmou_robot_spawner_pkg/lib/python3.8/site-packages/kmou_robot_spawner_pkg-0.0.0-py3.8.egg-info
+[1.623s] running install_scripts
+[1.653s] Installing spawn_demo script to /home/papag/av_ws/install/kmou_robot_spawner_pkg/lib/kmou_robot_spawner_pkg
+[1.654s] writing list of installed files to '/home/papag/av_ws/build/kmou_robot_spawner_pkg/install.log'
+[1.685s] Invoked command in '/home/papag/av_ws/src/kmou_robot_spawner_pkg' returned '0': PYTHONPATH=/home/papag/av_ws/install/kmou_robot_spawner_pkg/lib/python3.8/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py egg_info --egg-base ../../build/kmou_robot_spawner_pkg build --build-base /home/papag/av_ws/build/kmou_robot_spawner_pkg/build install --prefix /home/papag/av_ws/install/kmou_robot_spawner_pkg --record /home/papag/av_ws/build/kmou_robot_spawner_pkg/install.log --single-version-externally-managed
