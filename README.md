@@ -1,1 +1,2 @@
-# This project was created with reference to https://automaticaddison.com/how-to-simulate-a-robot-using-gazebo-and-ros-2/
+# This project is being carried out by referring to the site below.
+https://automaticaddison.com/how-to-simulate-a-robot-using-gazebo-and-ros-2/
