@@ -1,0 +1,34 @@
+[1.683s] Invoking command in '/home/papag/av_ws/src/kmou_robot_controller_pkg': PYTHONPATH=/home/papag/av_ws/install/kmou_robot_controller_pkg/lib/python3.8/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py egg_info --egg-base ../../build/kmou_robot_controller_pkg build --build-base /home/papag/av_ws/build/kmou_robot_controller_pkg/build install --prefix /home/papag/av_ws/install/kmou_robot_controller_pkg --record /home/papag/av_ws/build/kmou_robot_controller_pkg/install.log --single-version-externally-managed
+[2.154s] running egg_info
+[2.155s] writing ../../build/kmou_robot_controller_pkg/kmou_robot_controller_pkg.egg-info/PKG-INFO
+[2.155s] writing dependency_links to ../../build/kmou_robot_controller_pkg/kmou_robot_controller_pkg.egg-info/dependency_links.txt
+[2.155s] writing entry points to ../../build/kmou_robot_controller_pkg/kmou_robot_controller_pkg.egg-info/entry_points.txt
+[2.155s] writing requirements to ../../build/kmou_robot_controller_pkg/kmou_robot_controller_pkg.egg-info/requires.txt
+[2.155s] writing top-level names to ../../build/kmou_robot_controller_pkg/kmou_robot_controller_pkg.egg-info/top_level.txt
+[2.257s] reading manifest file '../../build/kmou_robot_controller_pkg/kmou_robot_controller_pkg.egg-info/SOURCES.txt'
+[2.259s] writing manifest file '../../build/kmou_robot_controller_pkg/kmou_robot_controller_pkg.egg-info/SOURCES.txt'
+[2.259s] running build
+[2.260s] running build_py
+[2.261s] running install
+[2.263s] running install_lib
+[2.265s] creating /home/papag/av_ws/install/kmou_robot_controller_pkg/lib/python3.8/site-packages/kmou_robot_controller_pkg
+[2.265s] copying /home/papag/av_ws/build/kmou_robot_controller_pkg/build/lib/kmou_robot_controller_pkg/robot_estimator.py -> /home/papag/av_ws/install/kmou_robot_controller_pkg/lib/python3.8/site-packages/kmou_robot_controller_pkg
+[2.266s] copying /home/papag/av_ws/build/kmou_robot_controller_pkg/build/lib/kmou_robot_controller_pkg/robot_controller.py -> /home/papag/av_ws/install/kmou_robot_controller_pkg/lib/python3.8/site-packages/kmou_robot_controller_pkg
+[2.267s] copying /home/papag/av_ws/build/kmou_robot_controller_pkg/build/lib/kmou_robot_controller_pkg/__init__.py -> /home/papag/av_ws/install/kmou_robot_controller_pkg/lib/python3.8/site-packages/kmou_robot_controller_pkg
+[2.268s] byte-compiling /home/papag/av_ws/install/kmou_robot_controller_pkg/lib/python3.8/site-packages/kmou_robot_controller_pkg/robot_estimator.py to robot_estimator.cpython-38.pyc
+[2.270s] byte-compiling /home/papag/av_ws/install/kmou_robot_controller_pkg/lib/python3.8/site-packages/kmou_robot_controller_pkg/robot_controller.py to robot_controller.cpython-38.pyc
+[2.272s] byte-compiling /home/papag/av_ws/install/kmou_robot_controller_pkg/lib/python3.8/site-packages/kmou_robot_controller_pkg/__init__.py to __init__.cpython-38.pyc
+[2.272s] running install_data
+[2.273s] creating /home/papag/av_ws/install/kmou_robot_controller_pkg/share/ament_index
+[2.273s] creating /home/papag/av_ws/install/kmou_robot_controller_pkg/share/ament_index/resource_index
+[2.273s] creating /home/papag/av_ws/install/kmou_robot_controller_pkg/share/ament_index/resource_index/packages
+[2.273s] copying resource/kmou_robot_controller_pkg -> /home/papag/av_ws/install/kmou_robot_controller_pkg/share/ament_index/resource_index/packages
+[2.274s] copying package.xml -> /home/papag/av_ws/install/kmou_robot_controller_pkg/share/kmou_robot_controller_pkg
+[2.274s] copying launch/controller_estimator.launch.py -> /home/papag/av_ws/install/kmou_robot_controller_pkg/share/kmou_robot_controller_pkg
+[2.274s] running install_egg_info
+[2.277s] Copying ../../build/kmou_robot_controller_pkg/kmou_robot_controller_pkg.egg-info to /home/papag/av_ws/install/kmou_robot_controller_pkg/lib/python3.8/site-packages/kmou_robot_controller_pkg-0.0.0-py3.8.egg-info
+[2.279s] running install_scripts
+[2.313s] Installing robot_controller script to /home/papag/av_ws/install/kmou_robot_controller_pkg/lib/warehouse_robot_controller_pkg
+[2.313s] Installing robot_estimator script to /home/papag/av_ws/install/kmou_robot_controller_pkg/lib/warehouse_robot_controller_pkg
+[2.313s] writing list of installed files to '/home/papag/av_ws/build/kmou_robot_controller_pkg/install.log'
+[2.356s] Invoked command in '/home/papag/av_ws/src/kmou_robot_controller_pkg' returned '0': PYTHONPATH=/home/papag/av_ws/install/kmou_robot_controller_pkg/lib/python3.8/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py egg_info --egg-base ../../build/kmou_robot_controller_pkg build --build-base /home/papag/av_ws/build/kmou_robot_controller_pkg/build install --prefix /home/papag/av_ws/install/kmou_robot_controller_pkg --record /home/papag/av_ws/build/kmou_robot_controller_pkg/install.log --single-version-externally-managed

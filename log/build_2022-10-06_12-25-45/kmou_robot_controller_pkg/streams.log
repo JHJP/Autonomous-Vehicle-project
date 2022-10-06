@@ -1,0 +1,9 @@
+[1.405s] Invoking command in '/home/papag/av_ws/src/kmou_robot_controller_pkg': PYTHONPATH=/home/papag/av_ws/install/kmou_robot_controller_pkg/lib/python3.8/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py egg_info --egg-base ../../build/kmou_robot_controller_pkg build --build-base /home/papag/av_ws/build/kmou_robot_controller_pkg/build install --prefix /home/papag/av_ws/install/kmou_robot_controller_pkg --record /home/papag/av_ws/build/kmou_robot_controller_pkg/install.log --single-version-externally-managed
+[1.861s] running egg_info
+[1.862s] writing ../../build/kmou_robot_controller_pkg/kmou_robot_controller_pkg.egg-info/PKG-INFO
+[1.862s] writing dependency_links to ../../build/kmou_robot_controller_pkg/kmou_robot_controller_pkg.egg-info/dependency_links.txt
+[1.862s] writing entry points to ../../build/kmou_robot_controller_pkg/kmou_robot_controller_pkg.egg-info/entry_points.txt
+[1.862s] writing requirements to ../../build/kmou_robot_controller_pkg/kmou_robot_controller_pkg.egg-info/requires.txt
+[1.863s] writing top-level names to ../../build/kmou_robot_controller_pkg/kmou_robot_controller_pkg.egg-info/top_level.txt
+[1.943s] error: package directory 'kmou_robot_controller_pkg' does not exist
+[1.977s] Invoked command in '/home/papag/av_ws/src/kmou_robot_controller_pkg' returned '1': PYTHONPATH=/home/papag/av_ws/install/kmou_robot_controller_pkg/lib/python3.8/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py egg_info --egg-base ../../build/kmou_robot_controller_pkg build --build-base /home/papag/av_ws/build/kmou_robot_controller_pkg/build install --prefix /home/papag/av_ws/install/kmou_robot_controller_pkg --record /home/papag/av_ws/build/kmou_robot_controller_pkg/install.log --single-version-externally-managed

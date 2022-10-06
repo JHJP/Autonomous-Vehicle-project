@@ -1,0 +1,32 @@
+running egg_info
+writing ../../build/kmou_robot_controller_pkg/kmou_robot_controller_pkg.egg-info/PKG-INFO
+writing dependency_links to ../../build/kmou_robot_controller_pkg/kmou_robot_controller_pkg.egg-info/dependency_links.txt
+writing entry points to ../../build/kmou_robot_controller_pkg/kmou_robot_controller_pkg.egg-info/entry_points.txt
+writing requirements to ../../build/kmou_robot_controller_pkg/kmou_robot_controller_pkg.egg-info/requires.txt
+writing top-level names to ../../build/kmou_robot_controller_pkg/kmou_robot_controller_pkg.egg-info/top_level.txt
+reading manifest file '../../build/kmou_robot_controller_pkg/kmou_robot_controller_pkg.egg-info/SOURCES.txt'
+writing manifest file '../../build/kmou_robot_controller_pkg/kmou_robot_controller_pkg.egg-info/SOURCES.txt'
+running build
+running build_py
+copying kmou_robot_controller_pkg/robot_estimator.py -> /home/papag/av_ws/build/kmou_robot_controller_pkg/build/lib/kmou_robot_controller_pkg
+copying kmou_robot_controller_pkg/robot_controller.py -> /home/papag/av_ws/build/kmou_robot_controller_pkg/build/lib/kmou_robot_controller_pkg
+copying kmou_robot_controller_pkg/__init__.py -> /home/papag/av_ws/build/kmou_robot_controller_pkg/build/lib/kmou_robot_controller_pkg
+running install
+running install_lib
+copying /home/papag/av_ws/build/kmou_robot_controller_pkg/build/lib/kmou_robot_controller_pkg/robot_estimator.py -> /home/papag/av_ws/install/kmou_robot_controller_pkg/lib/python3.8/site-packages/kmou_robot_controller_pkg
+copying /home/papag/av_ws/build/kmou_robot_controller_pkg/build/lib/kmou_robot_controller_pkg/robot_controller.py -> /home/papag/av_ws/install/kmou_robot_controller_pkg/lib/python3.8/site-packages/kmou_robot_controller_pkg
+copying /home/papag/av_ws/build/kmou_robot_controller_pkg/build/lib/kmou_robot_controller_pkg/__init__.py -> /home/papag/av_ws/install/kmou_robot_controller_pkg/lib/python3.8/site-packages/kmou_robot_controller_pkg
+byte-compiling /home/papag/av_ws/install/kmou_robot_controller_pkg/lib/python3.8/site-packages/kmou_robot_controller_pkg/robot_estimator.py to robot_estimator.cpython-38.pyc
+byte-compiling /home/papag/av_ws/install/kmou_robot_controller_pkg/lib/python3.8/site-packages/kmou_robot_controller_pkg/robot_controller.py to robot_controller.cpython-38.pyc
+byte-compiling /home/papag/av_ws/install/kmou_robot_controller_pkg/lib/python3.8/site-packages/kmou_robot_controller_pkg/__init__.py to __init__.cpython-38.pyc
+running install_data
+copying resource/kmou_robot_controller_pkg -> /home/papag/av_ws/install/kmou_robot_controller_pkg/share/ament_index/resource_index/packages
+copying package.xml -> /home/papag/av_ws/install/kmou_robot_controller_pkg/share/kmou_robot_controller_pkg
+copying launch/controller_estimator.launch.py -> /home/papag/av_ws/install/kmou_robot_controller_pkg/share/kmou_robot_controller_pkg
+running install_egg_info
+removing '/home/papag/av_ws/install/kmou_robot_controller_pkg/lib/python3.8/site-packages/kmou_robot_controller_pkg-0.0.0-py3.8.egg-info' (and everything under it)
+Copying ../../build/kmou_robot_controller_pkg/kmou_robot_controller_pkg.egg-info to /home/papag/av_ws/install/kmou_robot_controller_pkg/lib/python3.8/site-packages/kmou_robot_controller_pkg-0.0.0-py3.8.egg-info
+running install_scripts
+Installing robot_controller script to /home/papag/av_ws/install/kmou_robot_controller_pkg/lib/kmou_robot_controller_pkg
+Installing robot_estimator script to /home/papag/av_ws/install/kmou_robot_controller_pkg/lib/kmou_robot_controller_pkg
+writing list of installed files to '/home/papag/av_ws/build/kmou_robot_controller_pkg/install.log'

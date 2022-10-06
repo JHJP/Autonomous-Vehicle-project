@@ -1,0 +1,4 @@
+[console_scripts]
+robot_controller = kmou_robot_controller_pkg.robot_controller:main
+robot_estimator = kmou_robot_controller_pkg.robot_estimator:main
+
